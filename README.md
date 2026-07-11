@@ -20,7 +20,7 @@ Passionate Java developer with experience building scalable enterprise applicati
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="linkedin.com/in/nethaji1997" target="_blank">
+  <a href="https://www.linkedin.com/in/nethaji1997" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -37,10 +37,6 @@ Passionate Java developer with experience building scalable enterprise applicati
 ---
 
 ## 💻 Tech Stack
-
-## 💻 Tech Stack
-
-### 🚀 Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle" />
