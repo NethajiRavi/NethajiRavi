@@ -64,12 +64,12 @@ Passionate Java developer with experience building scalable enterprise applicati
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins" />
 </p>
-*/
+
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" />
-</p>  */
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+</p>  
 
 ### 🛠️ Tools & IDEs
 
