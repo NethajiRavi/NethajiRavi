@@ -19,7 +19,7 @@ Passionate Java developer with experience building scalable enterprise applicati
 
 ## 🌐 Connect With Me
 
-[LinkedIn Badge]
+[inkedin.com/in/nethaji1997]
 
 [Portfolio Badge]
 
